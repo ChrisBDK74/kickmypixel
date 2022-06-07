@@ -74,11 +74,11 @@ export default class Projects extends Component {
 								</div>
 							</div>
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
-								<div className="project" style={{backgroundImage: 'url(images/tshirt-card-front.png)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/impact-card-front.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Goya T-Shirt</a></h3>
-											<span>Personal Project: Graphic, Illustration & T-Shirt print</span>
+											<h3><a href="work.html">Impact For Tomorrow</a></h3>
+											<span>Personal UX and Web Design</span>
 											<p className="icon">
 												{/* <span><a href="#"><i className="icon-share3" /></a></span>
 												<span><a href="#"><i className="icon-eye" /> 100</a></span>
